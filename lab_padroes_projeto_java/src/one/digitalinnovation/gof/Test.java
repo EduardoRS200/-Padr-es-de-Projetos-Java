@@ -48,7 +48,7 @@ public class Test {
 		robo.mover();
 		robo.mover();
 		
-		// Facade
+		/// Facade
 		
 		Facade facade = new Facade();
 		facade.migrarCliente("Eduardo", "057012111");
